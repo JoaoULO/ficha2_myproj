@@ -7,4 +7,9 @@ Fiz uma alteração dentro do ficheiro.
 
 Alterações efetuadas no branch NovaFeature
 
+
 Alteração no branch NOVAFEATURE
+
+Alteração no branch MASTER
+
+
